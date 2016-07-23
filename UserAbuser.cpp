@@ -14,7 +14,7 @@ int main( void ) //the main function
        << "Ze logic loops are now even more annoying, zer will be tree choices,\n"
        << "So, vot ees your name?   ";
 
-  cin >> name;
+  cin >> name; //note the arrow directions of cin versions cout
   cout << "Hello my dear " << name.c_str() << "\n";
    beginning: //This is marks the starting point for the goto later in the program, note the colon
    cout    << "So een, ze first lab you are walking along,\n"
@@ -33,7 +33,8 @@ do
     cin >> response;
   }
  while (response < 1 || response > 4);
-//if the answer isn't 2, this is the choice of responses
+//if the answer is within the parameters of the while loop, this is the choice of responses
+//|| is in this instance and "or"
  if (response == 1)
 //note that = assigns a value, == is C++ for "equals"
    {
