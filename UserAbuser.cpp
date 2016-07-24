@@ -1,4 +1,5 @@
 //User Abuser3.0 Antonio "SirBothersome Alberto - Text based game that insults the user
+//Based off of Mark Lee's Pirate Muskateer game
 #include <iostream>
 #include <string>
 //these are the asset libraries the code will use
