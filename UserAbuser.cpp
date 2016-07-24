@@ -1,5 +1,5 @@
 //User Abuser3.0 Antonio "SirBothersome Alberto - Text based game that insults the user
-//Based off of a Mark Lee  game
+//Based off of  Mark Lee and Dirk Henkemans "Three tests of Honor"  game and their "Simple Menu"
 #include <iostream>
 #include <string>
 //these are the asset libraries the code will use
