@@ -123,20 +123,20 @@ else // Remember to enclose each 'else' statement (}) at the
 	  << "He said, 'My leetle feedly beets grow back, here, have my teeth.'\n"
 	  << "Me, being Kenchmans Frenchman Henchman, could not refuse sooch an offer\n"
 	  << "So, zat ees how I got zees lurverly toothys. I digress, in our next room\n"
-	  << "ve have JahJa Bingz, Opi Van Kenobi, and Padme Amidala, each in danger\n";
+	  << "ve have JahJa Bingz, Opi Van Kenobi, and Poodmeh Amydaly, each in danger\n";
      int response3 = 0;
 do
   {
     cout  << "So? Who do ve save?\n\n"
           << "1) JarJarBinx\n"
-	  << "2) Podme Amydaly\n"
+	  << "2) Poodme Amydaly\n"
 	  << "3) Obi Van Kenopi\n";
     cin >> response3;
       }
  while (response3 < 1 || response3 > 3);
  if (response3 == 2)
    {
-cout     <<"You have just proven that you tink Jarjar's ears \n"
+cout     <<"You have just proven that you tink Jahja's ears \n"
          << "Make his boot look fat. And zat you like skinnybooted people\n"
 	 << "Don't hate on ze fatbooted people.\n"
 	 << "Game Over.\n.";
