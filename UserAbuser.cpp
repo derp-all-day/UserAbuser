@@ -1,16 +1,16 @@
-This is a re-write of my friend Mayo's game for him.
-Original: https://github.com/SirBothersome/UserAbuser
+// This is a re-write of my friend Mayo's game for him.
+// Original: https://github.com/SirBothersome/UserAbuser
 
-Side Notes#
-###########
-- "goto"is bad practice, it encourages stringy messy code.
-- ALWAYS validate input, don't want any nasty buffer h3cks 
-going on ;) Also, alphabetic values for the second question 
-simply crash the program.
-- OOP is ALWAYS best
+// Side Notes#
+// ###########
+// - "goto"is bad practice, it encourages stringy messy code.
+// - ALWAYS validate input, don't want any nasty buffer h3cks 
+// going on ;) Also, alphabetic values for the second question 
+// simply crash the program.
+// - OOP is ALWAYS best
 
-THE CODE
-########################################################
+// THE CODE
+// ########################################################
 
 //Hope this helps.
 
